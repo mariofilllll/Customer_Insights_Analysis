@@ -21,4 +21,4 @@ This project involves statistical analysis and linear regression using a dataset
 ore details or collaboration opportunities, feel free to contact me on [LinkedIn](#) or via [email](mailto:youremail@example.com).
 
 ## Contact
-For more details or collaboration opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mario-filizzola-58798a206/) or via [email](mailto:filizzolamario@gmail.com).
+For more details or collaboration opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mariofilizzola/) or via [email](mailto:filizzolamario@gmail.com).
